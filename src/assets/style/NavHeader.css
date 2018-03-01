@@ -1,0 +1,10 @@
+.logo{
+ width: 160px;
+ text-align: center;
+ padding: 10px 10px;
+}
+.logo>a{
+  font-size:33px;
+  color: #27a;
+  text-decoration:none;
+}
